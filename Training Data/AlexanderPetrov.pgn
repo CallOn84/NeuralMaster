@@ -1,0 +1,742 @@
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "1-0"]
+[ECO "C23"]
+[GameDuration "00:00:43"]
+[GameEndTime "2020-09-13T10:13:57.976 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:13:14.016 Coordinated Universal Time"]
+[Opening "Bishop's Opening"]
+[PlyCount "187"]
+[TimeControl "inf"]
+[Variation "Philidor Variation"]
+
+1. e4 {book} e5 {book} 2. Bc4 {book} Bc5 {book} 3. c3 {book} Qe7 {book}
+4. d3 {book} d6 {book} 5. Qe2 {book} Be6 {book} 6. Bxe6 {book} Qxe6 {book}
+7. f4 {book} f6 {book} 8. Nf3 {book} Nd7 {book} 9. d4 {book} Bb6 {book}
+10. O-O {book} Ne7 {book} 11. fxe5 {book} Nxe5 {book} 12. Kh1 {book} Nf7 {book}
+13. Re1 {book} c6 {book} 14. Bf4 {book} O-O {book} 15. Nbd2 {book} Qg4 {book}
+16. Bg3 {book} Rfe8 {book} 17. Qd3 {book} f5 {book} 18. e5 {book} f4 {book}
+19. exd6 {book} Ng6 {book} 20. Bf2 {book} Nxd6 {book} 21. Nc4 {book} Nxc4 {book}
+22. Qxc4+ {book} Kh8 {book} 23. Qf7 {book} Reb8 {book} 24. Re4 {book} Qc8 {book}
+25. Rae1 {book} Qg8 {book} 26. Qd7 {book} Nf8 {book} 27. Qg4 {book} Ng6 {book}
+28. h4 {book} Bd8 {book} 29. h5 {book} Nf8 {book} 30. Qxf4 {book} Bf6 {book}
+31. g4 {book} h6 {book} 32. b3 {book} Nh7 {book} 33. Bg3 {book} Rf8 {book}
+34. Qe3 {book} Qf7 {book} 35. Kg2 {book} Ng5 {book} 36. Nxg5 {book} Bxg5 {book}
+37. Qe2 {book} Rad8 {book} 38. Re6 {book} Bf6 {book} 39. Qe4 {book} Qd7 {book}
+40. Bd6 {book} Rf7 {book} 41. Re2 {book} Bg5 {book} 42. c4 {book} Rf6 {book}
+43. c5 {book} Rxe6 {book} 44. Qxe6 {book} Qxe6 {book} 45. Rxe6 {book} Kg8 {book}
+46. Kf3 {book} Kf7 {book} 47. Re4 {book} g6 {book} 48. hxg6+ {book} Kxg6 {book}
+49. a4 {book} Rd7 {book} 50. Ke2 {book} h5 {book} 51. gxh5+ {book} Kxh5 {book}
+52. Kd3 {book} Kg6 {book} 53. Kc4 {book} Rh7 {book} 54. Re2 {book} Kf5 {book}
+55. Bb8 {book} a6 {book} 56. Re5+ {book} Kf6 {book} 57. Bd6 {book} Bf4 {book}
+58. Re2 {+1.38/15 0.78s} Bg5 {-1.01/16 1.4s} 59. d5 {+1.91/18 0.68s}
+Rh4+ {-1.41/16 0.68s} 60. Kc3 {+2.07/19 0.60s} Rh3+ {-1.83/19 0.58s}
+61. Kb4 {+1.77/19 0.58s} Kf7 {-1.71/19 0.60s} 62. Rf2+ {+1.90/18 0.49s}
+Kg6 {-2.51/18 0.47s} 63. dxc6 {+2.68/19 0.50s} bxc6 {-2.89/18 0.47s}
+64. Bc7 {+3.07/20 0.46s} Be3 {-3.23/17 0.46s} 65. Re2 {+2.87/18 0.45s}
+Kf5 {-2.01/19 0.45s} 66. Ka5 {+3.52/18 0.48s} Ke4 {-3.14/18 0.48s}
+67. Kxa6 {+3.42/19 0.47s} Kd3 {-4.00/17 0.44s} 68. Rh2 {+6.50/19 0.43s}
+Rf3 {-6.22/16 0.45s} 69. Kb6 {+7.04/17 0.42s} Bg5 {-6.70/13 0.85s}
+70. Kxc6 {+7.69/16 0.72s} Rf6+ {-7.52/15 1.5s} 71. Kb5 {+7.89/17 1.5s}
+Rf7 {-8.11/14 0.58s} 72. Bb6 {+8.61/17 0.53s} Rf3 {-8.31/14 0.50s}
+73. Rh5 {+8.82/16 0.62s} Be7 {-8.77/15 0.74s} 74. a5 {+9.35/17 0.95s}
+Kc2 {-9.40/15 0.53s} 75. b4 {+9.88/17 0.50s} Rf8 {-10.46/15 0.46s}
+76. Rh3 {+10.82/16 0.43s} Kd2 {-10.77/15 0.49s} 77. a6 {+11.81/16 0.45s}
+Kc2 {-10.18/15 0.53s} 78. a7 {+12.73/17 0.53s} Rg8 {-12.68/15 0.44s}
+79. Ka6 {+13.73/17 0.48s} Kd2 {-13.26/15 0.45s} 80. b5 {+14.25/16 0.57s}
+Ke1 {-13.83/14 0.45s} 81. c6 {+15.46/15 0.43s} Kf1 {-15.93/15 0.42s}
+82. Bc7 {+17.92/15 0.88s} Bc5 {-17.11/15 0.76s} 83. b6 {+20.78/15 0.51s}
+Rc8 {-15.29/16 0.44s} 84. Kb7 {+25.37/16 0.44s} Re8 {-23.00/16 0.40s}
+85. Bb8 {+31.30/17 0.42s} Kg2 {-30.59/13 0.40s} 86. Rh2+ {+72.15/18 0.41s}
+Kf3 {-70.98/17 0.51s} 87. a8=Q {+76.07/16 0.47s} Rxb8+ {-78.28/15 0.44s}
+88. Qxb8 {+M15/24 0.47s} Ke4 {-M14/18 0.44s} 89. Qg3 {+M11/37 0.35s}
+Bb4 {-M10/34 0.31s} 90. c7 {+M9/40 0.30s} Bd6 {-M8/54 0.24s}
+91. Qxd6 {+M7/53 0.23s} Kf5 {-M6/245 0.11s} 92. c8=Q+ {+M5/245 0.14s}
+Ke4 {-M4/245 0.018s} 93. Qce6+ {+M3/245 0.012s} Kf3 {-M2/245 0.006s}
+94. Qe2# {+M1/245 0.009s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1-0"]
+[ECO "C43"]
+[GameDuration "00:00:16"]
+[GameEndTime "2020-09-13T10:14:27.027 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:14:10.052 Coordinated Universal Time"]
+[Opening "Petrov"]
+[PlyCount "105"]
+[TimeControl "inf"]
+[Variation "Modern attack, Symmetrical Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nf6 {book} 3. d4 {book} Nxe4 {book}
+4. Bd3 {book} d5 {book} 5. Nxe5 {book} Bd6 {book} 6. O-O {book} O-O {book}
+7. c4 {book} f5 {book} 8. f4 {book} c6 {book} 9. Be3 {book} Be6 {book}
+10. cxd5 {book} cxd5 {book} 11. Nc3 {book} Nc6 {book} 12. Rc1 {book} Rf6 {book}
+13. Bxe4 {book} fxe4 {book} 14. Nb5 {book} Ne7 {book} 15. Nxd6 {book}
+Qxd6 {book} 16. g4 {book} g6 {book} 17. f5 {book} gxf5 {book} 18. Bg5 {book}
+Rff8 {book} 19. Bh6 {book} Rfc8 {book} 20. Qd2 {book} Qd8 {book} 21. Rxc8 {book}
+Rxc8 {book} 22. gxf5 {book} Nxf5 {book} 23. Qg2+ {book} Kh8 {book}
+24. Rxf5 {book} Qg8 {book} 25. Rf6 {book} Bh3 {book} 26. Qg3 {book} Qxg3+ {book}
+27. hxg3 {book} Re8 {-6.16/16 1.0s} 28. Nf7+ {+9.02/20 0.42s}
+Kg8 {-7.61/21 0.82s} 29. Ng5 {+9.32/18 0.33s} e3 {-8.95/16 0.32s}
+30. Rf7 {+9.47/19 0.26s} Rc8 {-9.07/19 0.29s} 31. Rg7+ {+9.58/18 0.31s}
+Kf8 {-9.08/19 0.29s} 32. Nxh3 {+9.58/21 0.30s} Rc1+ {-9.20/17 0.31s}
+33. Kg2 {+9.61/18 0.30s} Rc2+ {-9.23/17 0.29s} 34. Kf1 {+9.68/19 0.30s}
+Ke8 {-9.28/17 0.29s} 35. Bxe3 {+9.80/18 0.31s} Rxb2 {-9.29/20 0.34s}
+36. Nf4 {+9.87/18 0.31s} Rxa2 {-9.44/18 0.32s} 37. Rxb7 {+10.06/17 0.35s}
+Ra1+ {-9.57/16 0.31s} 38. Kg2 {+10.19/18 0.32s} a5 {-9.74/16 0.32s}
+39. Nxd5 {+11.42/18 0.33s} Ra2+ {-14.92/17 0.28s} 40. Kf3 {+16.06/19 0.28s}
+Rh2 {-25.22/16 0.27s} 41. Nf6+ {+M43/26 0.31s} Kd8 {-55.91/25 0.32s}
+42. d5 {+M23/31 0.40s} Kc8 {-62.23/25 0.30s} 43. Ra7 {+M21/35 0.33s}
+Rh1 {-M24/23 0.32s} 44. d6 {+M19/36 0.32s} Rd1 {-M18/32 0.31s}
+45. d7+ {+M17/37 0.37s} Kb8 {-M16/39 0.27s} 46. Ke2 {+M15/39 0.27s}
+Rd6 {-M14/41 0.26s} 47. Bc5 {+M13/39 0.28s} a4 {-M12/34 0.27s}
+48. Bxd6+ {+M11/40 0.23s} Kxa7 {-M10/40 0.17s} 49. d8=Q {+M9/41 0.19s}
+Kb7 {-M8/58 0.15s} 50. Bc5 {+M7/57 0.15s} h5 {-M6/245 0.12s}
+51. Qb6+ {+M5/221 0.15s} Kc8 {-M4/245 0.009s} 52. Qc6+ {+M3/245 0.008s}
+Kd8 {-M2/245 0.006s} 53. Qd7# {+M1/245 0.007s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "1-0"]
+[ECO "C43"]
+[GameDuration "00:00:27"]
+[GameEndTime "2020-09-13T10:15:05.500 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:14:37.940 Coordinated Universal Time"]
+[Opening "Petrov"]
+[PlyCount "135"]
+[TimeControl "inf"]
+[Variation "Modern attack, Symmetrical Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nf6 {book} 3. d4 {book} Nxe4 {book}
+4. Bd3 {book} d5 {book} 5. Nxe5 {book} Bd6 {book} 6. O-O {book} O-O {book}
+7. c4 {book} f5 {book} 8. f4 {book} c6 {book} 9. Be3 {book} Be6 {book}
+10. cxd5 {book} cxd5 {book} 11. Nc3 {book} Nc6 {book} 12. Rc1 {book} Rf6 {book}
+13. Bxe4 {book} fxe4 {book} 14. Nb5 {book} Ne7 {book} 15. Nxd6 {book}
+Qxd6 {book} 16. g4 {book} g6 {book} 17. f5 {book} gxf5 {book} 18. Bg5 {book}
+Rff8 {book} 19. Bh6 {book} Rfc8 {book} 20. Qd2 {book} Rxc1 {book}
+21. Qg5+ {book} Ng6 {book} 22. Nxg6 {book} Rxf1+ {book} 23. Kxf1 {book}
+Qd8 {book} 24. Ne7+ {book} Kf7 {book} 25. Qh5+ {book} Kxe7 {book}
+26. Bg5+ {book} Kd6 {-2.74/18 0.40s} 27. Bxd8 {+2.75/18 0.38s}
+Rxd8 {-3.19/19 0.38s} 28. Qxh7 {+2.84/19 0.37s} Rd7 {-2.76/17 0.37s}
+29. Qh3 {+3.19/21 0.37s} fxg4 {-2.80/19 0.39s} 30. Qa3+ {+3.38/21 0.37s}
+Kc7 {-2.78/20 0.37s} 31. Qc5+ {+3.33/21 0.37s} Kb8 {-2.92/18 0.37s}
+32. Ke2 {+3.39/21 0.37s} Bf7 {-3.14/19 0.38s} 33. Qc1 {+3.51/21 0.37s}
+a6 {-3.23/17 0.38s} 34. Qf4+ {+3.61/18 0.36s} Ka7 {-3.56/18 0.37s}
+35. Qxg4 {+3.70/19 0.36s} Rd6 {-3.57/18 0.37s} 36. Qf4 {+4.32/19 0.35s}
+Bh5+ {-4.18/18 0.39s} 37. Ke3 {+5.08/19 0.36s} Rb6 {-4.91/18 0.38s}
+38. Qg5 {+4.83/18 0.36s} Bd1 {-3.92/18 0.34s} 39. b3 {+5.18/18 0.38s}
+Bc2 {-4.61/18 0.37s} 40. Qxd5 {+6.30/18 0.36s} Rb5 {-5.98/17 0.38s}
+41. Qe6 {+6.50/20 0.37s} Bd3 {-7.20/15 0.37s} 42. d5 {+7.38/18 0.39s}
+Rc5 {-7.31/16 0.40s} 43. h4 {+7.71/18 0.39s} Rc1 {-7.75/15 0.40s}
+44. d6 {+8.45/16 0.37s} Bb5 {-8.06/16 0.41s} 45. h5 {+7.95/18 0.38s}
+Re1+ {-8.48/15 0.40s} 46. Kf2 {+8.69/18 0.39s} Rf1+ {-8.67/16 0.38s}
+47. Kg2 {+9.60/17 0.37s} Rf8 {-9.49/16 0.37s} 48. h6 {+10.17/15 0.38s}
+a5 {-10.09/16 0.36s} 49. h7 {+11.85/15 0.35s} Bc6 {-11.32/14 0.36s}
+50. Kg3 {+12.84/18 0.33s} Kb6 {-12.89/16 0.29s} 51. Qe7 {+20.29/20 0.28s}
+Ra8 {-20.94/16 0.28s} 52. d7 {+73.13/21 0.29s} Bxd7 {-147.92/21 0.28s}
+53. Qxd7 {+147.92/24 0.28s} a4 {-147.92/22 0.28s} 54. Qd4+ {+147.92/21 0.27s}
+Kc7 {-148.95/21 0.29s} 55. h8=Q {+148.96/20 0.28s} Rxh8 {-148.98/21 0.30s}
+56. Qxh8 {+149.00/19 0.29s} e3 {-148.98/19 0.32s} 57. bxa4 {+149.00/20 0.29s}
+Kd7 {-149.02/21 0.30s} 58. Qb8 {+M23/21 0.32s} Ke6 {-M22/23 0.31s}
+59. Qxb7 {+M19/26 0.29s} e2 {-M20/30 0.33s} 60. Kf2 {+M17/31 0.34s}
+e1=Q+ {-M16/36 0.26s} 61. Kxe1 {+M15/38 0.25s} Kf6 {-M14/35 0.21s}
+62. a5 {+M13/37 0.22s} Ke5 {-M12/36 0.21s} 63. a6 {+M11/34 0.21s}
+Kd4 {-M10/40 0.17s} 64. a7 {+M9/38 0.17s} Ke5 {-M8/66 0.17s}
+65. a8=Q {+M7/65 0.17s} Kf4 {-M6/203 0.15s} 66. Qe4+ {+M5/245 0.16s}
+Kg5 {-M4/245 0.009s} 67. Qg8+ {+M3/245 0.017s} Kh6 {-M2/245 0.006s}
+68. Qh1# {+M1/245 0.009s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1-0"]
+[ECO "C40"]
+[GameDuration "00:00:03"]
+[GameEndTime "2020-09-13T10:15:19.157 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:15:15.447 Coordinated Universal Time"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[PlyCount "81"]
+[TimeControl "inf"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} d5 {book} 3. Nxe5 {book} Qe7 {book}
+4. d4 {book} f6 {book} 5. Nf3 {book} dxe4 {book} 6. Nfd2 {book} f5 {book}
+7. Be2 {book} Nc6 {book} 8. Nb3 {book} Nf6 {book} 9. O-O {book} Qf7 {book}
+10. c4 {book} Bd7 {book} 11. Bf4 {book} O-O-O {book} 12. Nc3 {book} h6 {book}
+13. a3 {book} g5 {book} 14. Bd2 {book} f4 {book} 15. d5 {book} Ne5 {book}
+16. Nd4 {book} Bc5 {book} 17. Be1 {book} Rhg8 {book} 18. b4 {book} Be7 {book}
+19. f3 {book} e3 {book} 20. Qb3 {book} g4 {book} 21. c5 {book} gxf3 {book}
+22. Nxf3 {book} Nxf3+ {book} 23. Bxf3 {book} Ng4 {book} 24. Qc4 {book}
+Kb8 {book} 25. Qe4 {book} Rde8 {book} 26. d6 {book} Bc6 {book} 27. Qd4 {book}
+Bxf3 {book} 28. Rxf3 {book} Bg5 {book} 29. Nb5 {book} c6 {book} 30. d7 {book}
+Re6 {book} 31. Bg3 {book} cxb5 {book} 32. Bxf4+ {book} Ne5 {book}
+33. Bxe5+ {book} Rxe5 {book} 34. Qxe5+ {book} Ka8 {-M14/38 0.35s}
+35. Rxf7 {+M13/38 0.35s} e2 {-M12/42 0.33s} 36. Qe8+ {+M11/43 0.34s}
+Bd8 {-M10/60 0.20s} 37. Qxg8 {+M9/58 0.22s} e1=Q+ {-M8/231 0.17s}
+38. Rxe1 {+M7/245 0.13s} a6 {-M6/245 0.14s} 39. Qxd8+ {+M5/245 0.15s}
+Ka7 {-M4/245 0.009s} 40. Qb6+ {+M3/245 0.008s} Kb8 {-M2/245 0.006s}
+41. d8=Q# {+M1/245 0.008s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "0-1"]
+[ECO "C53"]
+[GameDuration "00:00:06"]
+[GameEndTime "2020-09-13T10:15:40.969 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:15:34.049 Coordinated Universal Time"]
+[Opening "Giuoco Piano"]
+[PlyCount "50"]
+[TimeControl "inf"]
+[Variation "Ghulam Kassim Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. d4 {book} exd4 {book} 6. e5 {book} Ne4 {book}
+7. Bd5 {book} Nxf2 {book} 8. Kxf2 {book} dxc3+ {book} 9. Kg3 {book} cxb2 {book}
+10. Bxb2 {book} Ne7 {book} 11. Ng5 {book} Nxd5 {book} 12. Nxf7 {book} O-O {book}
+13. Nxd8 {book} Bf2+ {+M25/24 0.39s} 14. Kh3 {-M24/32 0.36s} d6+ {+M23/34 0.37s}
+15. e6 {-M22/38 0.38s} Nf4+ {+M21/39 0.37s} 16. Kg4 {-M20/42 0.34s}
+Nxe6 {+M19/42 0.34s} 17. Nf7 {-M18/43 0.34s} Rxf7 {+M17/43 0.35s}
+18. g3 {-M16/44 0.33s} Nd4+ {+M15/42 0.34s} 19. Kh5 {-M14/45 0.30s}
+Rf5+ {+M13/45 0.32s} 20. Kh4 {-M12/49 0.30s} Rf4+ {+M11/48 0.30s}
+21. Kh5 {-M10/55 0.24s} g6+ {+M9/53 0.26s} 22. Kh6 {-M8/77 0.18s}
+Be3 {+M7/74 0.18s} 23. Qb3+ {-M6/245 0.025s} Nxb3 {+M5/245 0.018s}
+24. Kg5 {-M4/245 0.010s} Rg4+ {+M3/245 0.008s} 25. Kf6 {-M2/245 0.007s}
+Bg5# {+M1/245 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "0-1"]
+[ECO "C53"]
+[GameDuration "00:00:00"]
+[GameEndTime "2020-09-13T10:15:53.881 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:15:53.016 Coordinated Universal Time"]
+[Opening "Giuoco Piano"]
+[PlyCount "40"]
+[TimeControl "inf"]
+[Variation "Ghulam Kassim Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. d4 {book} exd4 {book} 6. e5 {book} Ne4 {book}
+7. Bd5 {book} Nxf2 {book} 8. Kxf2 {book} dxc3+ {book} 9. Kg3 {book} cxb2 {book}
+10. Bxb2 {book} Ne7 {book} 11. Ng5 {book} Nxd5 {book} 12. Nxf7 {book} O-O {book}
+13. Nxd8 {book} Bf2+ {book} 14. Kh3 {book} d6+ {book} 15. e6 {book} Nf4+ {book}
+16. Kg4 {book} Nxe6 {book} 17. Nxe6 {book} Bxe6+ {book} 18. Kg5 {book}
+Rf5+ {book} 19. Kg4 {book} h5+ {book} 20. Kh3 {book}
+Rf3# {+M1/245 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "1-0"]
+[ECO "C33"]
+[GameDuration "00:00:02"]
+[GameEndTime "2020-09-13T10:15:57.738 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:15:55.658 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "147"]
+[TimeControl "inf"]
+[Variation "Bishop's gambit, Classical defense"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Bc4 {book} Qh4+ {book}
+4. Kf1 {book} g5 {book} 5. Nc3 {book} Bg7 {book} 6. d4 {book} d6 {book}
+7. Nb5 {book} Na6 {book} 8. Be2 {book} Qh6 {book} 9. h4 {book} c6 {book}
+10. Nc3 {book} Nc7 {book} 11. Nf3 {book} g4 {book} 12. Ne1 {book} Qf6 {book}
+13. Bxg4 {book} Qxd4 {book} 14. Qxd4 {book} Bxd4 {book} 15. Bxc8 {book}
+Rxc8 {book} 16. Bxf4 {book} Bxc3 {book} 17. bxc3 {book} d5 {book} 18. e5 {book}
+Ne6 {book} 19. Nd3 {book} Ne7 {book} 20. Rb1 {book} b6 {book} 21. Kf2 {book}
+Nxf4 {book} 22. Nxf4 {book} Ng6 {book} 23. g3 {book} Kd7 {book} 24. Rbe1 {book}
+Rce8 {book} 25. Nd3 {book} h5 {book} 26. Kg2 {book} Re7 {book} 27. Rhf1 {book}
+c5 {book} 28. Nf4 {book} Nxf4+ {book} 29. gxf4 {book} Rg8+ {book} 30. Kf3 {book}
+Rg4 {book} 31. Rh1 {book} Ke6 {book} 32. Reg1 {book} Kf5 {book} 33. Rxg4 {book}
+hxg4+ {book} 34. Kg3 {book} f6 {book} 35. Re1 {book} fxe5 {book}
+36. Rxe5+ {book} Rxe5 {book} 37. fxe5 {book} Kxe5 {book} 38. Kxg4 {book}
+Kf6 {book} 39. h5 {book} b5 {book} 40. h6 {book} Kg6 {book} 41. Kf4 {book}
+Kxh6 {book} 42. Ke5 {book} b4 {book} 43. Kxd5 {book} bxc3 {book} 44. Kxc5 {book}
+Kg5 {book} 45. Kd4 {book} Kf4 {book} 46. Kxc3 {book} Ke5 {book} 47. Kc4 {book}
+Kd6 {book} 48. Kb5 {book} Kc7 {book} 49. Kc5 {book} Kd7 {book} 50. Kd5 {book}
+Kc7 {book} 51. Kc5 {book} Kd7 {book} 52. Kb5 {book} Kc7 {book} 53. a4 {book}
+Kb7 {book} 54. c4 {book} Kc7 {book} 55. Kc5 {book} Kd7 {book} 56. Kb5 {book}
+Kc7 {book} 57. Ka5 {book} Kb8 {book} 58. c5 {book} Ka8 {book} 59. Kb5 {book}
+Kb7 {book} 60. a5 {book} Kc7 {book} 61. Ka6 {book} Kb8 {book} 62. Kb5 {book}
+Kb7 {book} 63. c6+ {book} Kc7 {book} 64. Kc5 {book} Kc8 {book} 65. Kd6 {book}
+Kd8 {book} 66. c7+ {book} Kc8 {book} 67. Kc6 {+M15/50 0.23s} a6 {-M14/41 0.22s}
+68. Kd6 {+M13/79 0.15s} Kb7 {-M12/106 0.14s} 69. Kd7 {+M11/166 0.14s}
+Ka8 {-M10/187 0.14s} 70. c8=Q+ {+M9/245 0.14s} Ka7 {-M8/245 0.069s}
+71. Qc5+ {+M7/245 0.014s} Kb7 {-M6/245 0.018s} 72. Qb4+ {+M5/245 0.012s}
+Ka8 {-M4/245 0.009s} 73. Kc7 {+M3/245 0.008s} Ka7 {-M2/245 0.006s}
+74. Qb7# {+M1/245 0.005s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1-0"]
+[ECO "C53"]
+[GameDuration "00:00:04"]
+[GameEndTime "2020-09-13T10:16:30.035 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:16:25.560 Coordinated Universal Time"]
+[Opening "Giuoco Piano"]
+[PlyCount "135"]
+[TimeControl "inf"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. O-O {book} Nxe4 {book} 6. Bd5 {book} Nf6 {book}
+7. Bxc6 {book} dxc6 {book} 8. Nxe5 {book} O-O {book} 9. d4 {book} Bb6 {book}
+10. Bg5 {book} Be6 {book} 11. Nd2 {book} c5 {book} 12. Ndf3 {book} cxd4 {book}
+13. cxd4 {book} c5 {book} 14. dxc5 {book} Bxc5 {book} 15. Qxd8 {book}
+Raxd8 {book} 16. Rac1 {book} Bb6 {book} 17. Nc4 {book} Bxc4 {book}
+18. Rxc4 {book} Rd6 {book} 19. Bxf6 {book} Rxf6 {book} 20. Re1 {book} Rd6 {book}
+21. g3 {book} Rd7 {book} 22. b4 {book} f6 {book} 23. a4 {book} a6 {book}
+24. a5 {book} Ba7 {book} 25. Kg2 {book} Kf7 {book} 26. Rec1 {book} Rfd8 {book}
+27. Rc7 {book} Bb8 {book} 28. Rxd7+ {book} Rxd7 {book} 29. Rc4 {book} Bd6 {book}
+30. Nd4 {book} Rc7 {book} 31. Nf5 {book} Be5 {book} 32. Rxc7+ {book} Bxc7 {book}
+33. Kf3 {book} g6 {book} 34. Ne3 {book} Bd6 {book} 35. Nd5 {book} f5 {book}
+36. Ke3 {book} Ke6 {book} 37. Kd4 {book} g5 {book} 38. Kc4 {book} h6 {book}
+39. Nb6 {book} Bc7 {book} 40. Na4 {book} Kd6 {book} 41. Nc5 {book} Kc6 {book}
+42. Ne6 {book} b5+ {book} 43. axb6 {book} Bxb6 {book} 44. f4 {book} Kd7 {book}
+45. Nc5+ {book} Bxc5 {book} 46. Kxc5 {book} Kc7 {book} 47. h4 {book} gxh4 {book}
+48. gxh4 {book} h5 {book} 49. Kd5 {book} Kb6 {book} 50. Ke5 {book} Kb5 {book}
+51. Kxf5 {book} Kxb4 {book} 52. Kg6 {book} a5 {book} 53. f5 {book} a4 {book}
+54. f6 {book} a3 {book} 55. f7 {book} a2 {book} 56. f8=Q+ {book} Kb3 {book}
+57. Qf6 {book} Kc4 {-M20/28 0.35s} 58. Qb2 {+M49/30 0.31s} a1=Q {-M20/40 0.24s}
+59. Qxa1 {+M19/37 0.25s} Kb3 {-M18/39 0.20s} 60. Qd4 {+M17/36 0.20s}
+Kc2 {-M16/41 0.17s} 61. Kxh5 {+M15/38 0.19s} Kb1 {-M14/46 0.20s}
+62. Kg4 {+M13/41 0.17s} Kc1 {-M12/44 0.16s} 63. h5 {+M11/41 0.18s}
+Kc2 {-M10/49 0.17s} 64. h6 {+M9/48 0.16s} Kb1 {-M8/90 0.15s}
+65. h7 {+M7/96 0.16s} Kc2 {-M6/245 0.075s} 66. h8=Q {+M5/245 0.074s}
+Kb3 {-M4/245 0.033s} 67. Qb2+ {+M3/245 0.009s} Kc4 {-M2/245 0.006s}
+68. Qhd4# {+M1/245 0.007s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "1-0"]
+[ECO "C33"]
+[GameDuration "00:00:06"]
+[GameEndTime "2020-09-13T10:16:55.674 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:16:49.009 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "105"]
+[TimeControl "inf"]
+[Variation "Bishop's gambit, Classical defense"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Bc4 {book} Qh4+ {book}
+4. Kf1 {book} g5 {book} 5. Nc3 {book} Bg7 {book} 6. d4 {book} Ne7 {book}
+7. e5 {book} Nf5 {book} 8. Nf3 {book} Qh5 {book} 9. Kg1 {book} h6 {book}
+10. Nd5 {book} Kd8 {book} 11. h4 {book} Qg6 {book} 12. hxg5 {book} hxg5 {book}
+13. Rxh8+ {book} Bxh8 {book} 14. Nxg5 {book} Qxg5 {book} 15. Bxf4 {book}
+Qg6 {book} 16. Qd2 {book} d6 {book} 17. Bg5+ {book} Kd7 {book} 18. Rf1 {book}
+Nc6 {book} 19. Bd3 {book} Ncxd4 {book} 20. c3 {book} Qe6 {book} 21. cxd4 {book}
+Qxd5 {book} 22. Bxf5+ {book} Ke8 {book} 23. Bxc8 {book} Rxc8 {book}
+24. Qf4 {book} dxe5 {book} 25. Qf5 {book} Qe6 {book} 26. Qh7 {book} Kd7 {book}
+27. Rxf7+ {book} Kc6 {book} 28. Qc2+ {book} Kb6 {book} 29. Qc5+ {book}
+Ka6 {book} 30. Qa3+ {book} Kb5 {book} 31. Qc5+ {book} Ka6 {book} 32. Qa3+ {book}
+Kb5 {book} 33. Qd3+ {book} Kb6 {book} 34. d5 {book} Qxf7 {book} 35. Qb3+ {book}
+Ka6 {book} 36. Qc4+ {book} Kb6 {book} 37. Be3+ {book} c5 {book} 38. dxc6+ {book}
+Kc7 {-17.77/20 0.27s} 39. Qxf7+ {+62.23/25 0.27s} Kxc6 {-62.42/28 0.26s}
+40. Qe6+ {+66.09/28 0.25s} Kc7 {-62.56/29 0.27s} 41. Bxa7 {+148.90/27 0.25s}
+b5 {-147.92/28 0.24s} 42. Bc5 {+M31/26 0.28s} Rg8 {-147.92/26 0.27s}
+43. Qxg8 {+M25/29 0.27s} Kc6 {-148.93/26 0.27s} 44. Bf8 {+M23/28 0.24s}
+e4 {-M26/23 0.26s} 45. Qe6+ {+M17/28 0.25s} Kb7 {-M16/35 0.25s}
+46. Qd7+ {+M15/36 0.25s} Kb6 {-M14/41 0.23s} 47. b4 {+M13/41 0.23s}
+Bd4+ {-M12/45 0.20s} 48. Qxd4+ {+M11/45 0.19s} Kc7 {-M10/48 0.16s}
+49. Bc5 {+M9/45 0.16s} e3 {-M8/66 0.15s} 50. Qd6+ {+M7/67 0.15s}
+Kc8 {-M6/245 0.059s} 51. Bb6 {+M5/245 0.072s} Kb7 {-M4/245 0.009s}
+52. Qc7+ {+M3/245 0.007s} Ka6 {-M2/245 0.005s}
+53. Qa7# {+M1/245 0.007s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1-0"]
+[ECO "C53"]
+[GameDuration "00:00:03"]
+[GameEndTime "2020-09-13T10:17:13.351 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:17:09.551 Coordinated Universal Time"]
+[Opening "Giuoco Piano"]
+[PlyCount "133"]
+[TimeControl "inf"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. O-O {book} Nxe4 {book} 6. Bd5 {book} Nf6 {book}
+7. Bxc6 {book} dxc6 {book} 8. Nxe5 {book} O-O {book} 9. d4 {book} Bb6 {book}
+10. Bg5 {book} Be6 {book} 11. Nd2 {book} c5 {book} 12. Ndf3 {book} cxd4 {book}
+13. cxd4 {book} c5 {book} 14. dxc5 {book} Bxc5 {book} 15. Qxd8 {book}
+Raxd8 {book} 16. Rac1 {book} Bb6 {book} 17. Nc4 {book} Bxc4 {book}
+18. Rxc4 {book} Rd6 {book} 19. Bxf6 {book} Rxf6 {book} 20. Re1 {book} Rd6 {book}
+21. g3 {book} Rd7 {book} 22. b4 {book} f6 {book} 23. a4 {book} a6 {book}
+24. a5 {book} Ba7 {book} 25. Kg2 {book} Kf7 {book} 26. Rec1 {book} Rfd8 {book}
+27. Rc7 {book} Bb8 {book} 28. Rxd7+ {book} Rxd7 {book} 29. Rc4 {book} Bd6 {book}
+30. Nd4 {book} Rc7 {book} 31. Nf5 {book} Be5 {book} 32. Rxc7+ {book} Bxc7 {book}
+33. Kf3 {book} g6 {book} 34. Ne3 {book} Bd6 {book} 35. Nd5 {book} f5 {book}
+36. Ke3 {book} Ke6 {book} 37. Kd4 {book} g5 {book} 38. Kc4 {book} h6 {book}
+39. Nb6 {book} Bc7 {book} 40. Na4 {book} Kd6 {book} 41. Nc5 {book} Kc6 {book}
+42. Ne6 {book} b5+ {book} 43. axb6 {book} Bxb6 {book} 44. f4 {book} Kd7 {book}
+45. Nc5+ {book} Bxc5 {book} 46. Kxc5 {book} Kc7 {book} 47. h4 {book} gxh4 {book}
+48. gxh4 {book} h5 {book} 49. Kd5 {book} Kb6 {book} 50. Ke5 {book} Kb5 {book}
+51. Kxf5 {book} Kxb4 {book} 52. Kg6 {book} a5 {book} 53. f5 {book} a4 {book}
+54. f6 {book} a3 {book} 55. f7 {book} a2 {book} 56. f8=Q+ {book} Kb3 {book}
+57. Qf6 {book} Kc4 {-M20/30 0.29s} 58. Kxh5 {+M19/29 0.29s} a1=Q {-M18/34 0.19s}
+59. Qxa1 {+M17/37 0.18s} Kb3 {-M16/35 0.17s} 60. Kg5 {+M15/38 0.18s}
+Kc4 {-M14/37 0.19s} 61. h5 {+M13/35 0.18s} Kb3 {-M12/40 0.17s}
+62. h6 {+M11/38 0.16s} Kc4 {-M10/48 0.15s} 63. h7 {+M9/45 0.15s}
+Kb4 {-M8/58 0.15s} 64. h8=Q {+M7/72 0.15s} Kc5 {-M6/245 0.14s}
+65. Qhd4+ {+M5/237 0.15s} Kc6 {-M4/245 0.009s} 66. Qa8+ {+M3/245 0.009s}
+Kb5 {-M2/245 0.006s} 67. Qaa4# {+M1/245 0.008s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "0-1"]
+[ECO "C21"]
+[GameDuration "00:00:01"]
+[GameEndTime "2020-09-13T10:17:30.463 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:17:29.443 Coordinated Universal Time"]
+[Opening "center game"]
+[PlyCount "112"]
+[TimeControl "inf"]
+
+1. e4 {book} e5 {book} 2. d4 {book} exd4 {book} 3. Bc4 {book} Nc6 {book}
+4. Nf3 {book} Bc5 {book} 5. c3 {book} Nf6 {book} 6. Bg5 {book} h6 {book}
+7. Bxf6 {book} Qxf6 {book} 8. e5 {book} Qg6 {book} 9. O-O {book} dxc3 {book}
+10. Nxc3 {book} O-O {book} 11. Re1 {book} d6 {book} 12. Nd5 {book} Bg4 {book}
+13. Bb5 {book} Bxf3 {book} 14. Qxf3 {book} dxe5 {book} 15. Bxc6 {book}
+bxc6 {book} 16. Nxc7 {book} Rac8 {book} 17. Na6 {book} Bd6 {book}
+18. Rac1 {book} Rfe8 {book} 19. Rxc6 {book} e4 {book} 20. Rxc8 {book}
+Rxc8 {book} 21. Qh3 {book} Rc6 {book} 22. g3 {book} f5 {book} 23. Qf1 {book}
+Bxg3 {book} 24. fxg3 {book} Rxa6 {book} 25. Qc4+ {book} Kh7 {book} 26. b4 {book}
+Qe6 {book} 27. Qxe6 {book} Rxe6 {book} 28. Re3 {book} g5 {book} 29. Rc3 {book}
+Kg6 {book} 30. Kf2 {book} f4 {book} 31. a4 {book} e3+ {book} 32. Ke1 {book}
+Kf5 {book} 33. b5 {book} f3 {book} 34. a5 {book} g4 {book} 35. Rc5+ {book}
+Kf6 {book} 36. Rc2 {book} e2 {book} 37. Rc1 {book} Ke5 {book} 38. Rb1 {book}
+Re7 {book} 39. b6 {book} axb6 {book} 40. axb6 {book} Rb7 {book} 41. Rb5+ {book}
+Kd4 {book} 42. Kf2 {book} Kc4 {book} 43. Rb1 {book} Kc5 {book} 44. Rc1+ {book}
+Kxb6 {book} 45. Rc4 {book} Re7 {book} 46. Rc1 {book} e1=Q+ {book}
+47. Rxe1 {book} Rxe1 {book} 48. Kxe1 {book} Kc5 {book} 49. Kd1 {book} Kd4 {book}
+50. Kd2 {book} Ke4 {book} 51. Kd1 {book} Ke3 {book} 52. Ke1 {book} f2+ {book}
+53. Kf1 {book} Kf3 {book} 54. h3 {-M6/245 0.012s} gxh3 {+M5/245 0.011s}
+55. g4 {-M4/245 0.008s} h2 {+M3/245 0.007s} 56. g5 {-M2/245 0.005s}
+h1=Q# {+M1/245 0.004s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "0-1"]
+[ECO "C54"]
+[GameDuration "00:00:12"]
+[GameEndTime "2020-09-13T10:17:56.340 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:17:43.595 Coordinated Universal Time"]
+[Opening "Giuoco Piano"]
+[PlyCount "92"]
+[TimeControl "inf"]
+[Variation "Cracow Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. d4 {book} exd4 {book} 6. cxd4 {book} Bb4+ {book}
+7. Kf1 {book} d5 {book} 8. exd5 {book} Nxd5 {book} 9. Nc3 {book} Bxc3 {book}
+10. bxc3 {book} O-O {book} 11. Qc2 {book} h6 {book} 12. h4 {book} Be6 {book}
+13. Bd3 {book} Nf6 {book} 14. Ng5 {book} Qd5 {book} 15. c4 {book} Qxd4 {book}
+16. Bb2 {book} Qd8 {book} 17. a3 {book} Nd4 {book} 18. Bxd4 {book} Qxd4 {book}
+19. Rd1 {book} Qc5 {book} 20. Nxe6 {book} fxe6 {book} 21. Qe2 {book} e5 {book}
+22. Bf5 {book} Rad8 {book} 23. Rb1 {book} Rfe8 {book} 24. Rh3 {book} Rd4 {book}
+25. Rxb7 {book} Rxc4 {book} 26. Kg1 {book} e4 {book} 27. Rb1 {book} Rc2 {book}
+28. Rb5 {book} Qc6 {book} 29. Qf1 {-8.06/18 0.47s} Rc1 {+8.44/18 0.47s}
+30. Rb1 {-8.63/19 0.50s} Rxf1+ {+8.33/16 0.48s} 31. Rxf1 {-8.90/18 0.53s}
+Re5 {+8.76/17 0.62s} 32. g4 {-8.58/17 0.44s} g6 {+9.90/19 0.45s}
+33. g5 {-9.14/17 0.46s} hxg5 {+12.61/18 0.44s} 34. Bc8 {-12.41/16 0.40s}
+gxh4 {+13.71/17 0.38s} 35. Re1 {-13.12/15 0.39s} Re8 {+14.36/16 0.36s}
+36. Rxh4 {-13.85/15 0.34s} Rxc8 {+15.16/16 0.36s} 37. Rh3 {-14.66/14 0.34s}
+Rf8 {+18.75/18 0.35s} 38. Rg3 {-17.96/14 0.34s} Kg7 {+19.42/17 0.33s}
+39. Kf1 {-18.82/15 0.34s} Qc5 {+64.19/21 0.31s} 40. Re2 {-26.62/17 0.32s}
+Nd5 {+M45/21 0.31s} 41. Rb3 {-M16/24 0.32s} Nf4 {+M11/38 0.32s}
+42. Rb7 {-M10/39 0.30s} Rh8 {+M9/44 0.28s} 43. Rxc7+ {-M8/168 0.17s}
+Qxc7 {+M7/116 0.16s} 44. f3 {-M6/245 0.080s} Qc5 {+M5/237 0.17s}
+45. Rh2 {-M4/245 0.010s} Rxh2 {+M3/245 0.010s} 46. a4 {-M2/245 0.005s}
+Qf2# {+M1/245 0.008s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "1-0"]
+[ECO "C33"]
+[GameDuration "00:00:00"]
+[GameEndTime "2020-09-13T10:18:09.220 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:18:08.390 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "53"]
+[TimeControl "inf"]
+[Variation "Bishop's gambit, Classical defense"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Bc4 {book} Qh4+ {book}
+4. Kf1 {book} g5 {book} 5. Nc3 {book} Bg7 {book} 6. d4 {book} Ne7 {book}
+7. e5 {book} Nf5 {book} 8. Nf3 {book} Qh5 {book} 9. Kg1 {book} h6 {book}
+10. Nd5 {book} Kd8 {book} 11. h4 {book} Qg6 {book} 12. hxg5 {book} hxg5 {book}
+13. Rxh8+ {book} Bxh8 {book} 14. Nxg5 {book} Qxg5 {book} 15. Bxf4 {book}
+Qg6 {book} 16. e6 {book} Bxd4+ {book} 17. Qxd4 {book} Nxd4 {book}
+18. exf7 {book} Nf3+ {book} 19. Kf2 {book} Qxf7 {book} 20. gxf3 {book}
+Qf5 {book} 21. Bxc7+ {book} Ke8 {book} 22. Re1+ {book} Kf8 {book}
+23. Bd6+ {book} Kg7 {book} 24. Re7+ {book} Kh6 {book} 25. Bd3 {book} Qxd5 {book}
+26. Bf4+ {book} Kh5 {-M2/245 0.006s} 27. Rh7# {+M1/245 0.008s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1-0"]
+[ECO "C01"]
+[GameDuration "00:00:00"]
+[GameEndTime "2020-09-13T10:18:13.700 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:18:12.950 Coordinated Universal Time"]
+[Opening "French"]
+[PlyCount "33"]
+[TimeControl "inf"]
+[Variation "Exchange Variation"]
+
+1. e4 {book} e6 {book} 2. d4 {book} d5 {book} 3. exd5 {book} exd5 {book}
+4. c4 {book} Bb4+ {book} 5. Nc3 {book} Ne7 {book} 6. Nf3 {book} Bg4 {book}
+7. Be2 {book} dxc4 {book} 8. O-O {book} Bxf3 {book} 9. Bxf3 {book} c6 {book}
+10. Qe2 {book} Qxd4 {book} 11. Rd1 {book} Qf6 {book} 12. Ne4 {book} Qe6 {book}
+13. a3 {book} Ba5 {book} 14. Bg4 {book} Qg6 {book} 15. Bf5 {book} Nxf5 {book}
+16. Nf6+ {book} Kf8 {book} 17. Qe8# {+M1/245 0.007s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "0-1"]
+[ECO "C44"]
+[GameDuration "00:00:18"]
+[GameEndTime "2020-09-13T10:18:33.979 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:18:15.359 Coordinated Universal Time"]
+[Opening "Scotch gambit"]
+[PlyCount "164"]
+[TimeControl "inf"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. d4 {book} exd4 {book}
+4. Bc4 {book} Bc5 {book} 5. O-O {book} Nf6 {book} 6. e5 {book} d5 {book}
+7. exf6 {book} dxc4 {book} 8. Re1+ {book} Be6 {book} 9. fxg7 {book} Rg8 {book}
+10. Ng5 {book} Rxg7 {book} 11. Rxe6+ {book} fxe6 {book} 12. Nxe6 {book}
+Qe7 {book} 13. Nxg7+ {book} Qxg7 {book} 14. Qh5+ {book} Qg6 {book}
+15. Qxc5 {book} O-O-O {book} 16. Qxc4 {book} Ne5 {book} 17. Qb3 {book} d3 {book}
+18. cxd3 {book} Rxd3 {book} 19. Nc3 {book} Nf3+ {book} 20. Kh1 {book} Nh4 {book}
+21. Bg5 {book} Qxg5 {book} 22. Qe6+ {book} Kb8 {book} 23. g3 {book} Nf3 {book}
+24. Rd1 {book} Rxd1+ {book} 25. Nxd1 {book} a6 {book} 26. Qe8+ {book} Ka7 {book}
+27. Qe3+ {book} Qxe3 {book} 28. Nxe3 {book} c5 {book} 29. Kg2 {book} Ne1+ {book}
+30. Kf1 {book} Nd3 {book} 31. Nd1 {book} b5 {book} 32. a3 {book} Kb6 {book}
+33. Ke2 {book} c4 {book} 34. Kd2 {book} Kc5 {book} 35. Kc3 {book} a5 {book}
+36. f4 {book} b4+ {book} 37. axb4+ {book} axb4+ {book} 38. Kd2 {book} Kd4 {book}
+39. f5 {book} Ke5 {book} 40. b3 {book} Kxf5 {book} 41. bxc4 {book} Ke4 {book}
+42. Kc2 {book} Nc5 {book} 43. Nb2 {book} Kd4 {book} 44. Kd2 {book} b3 {book}
+45. g4 {book} Ne4+ {book} 46. Kc1 {book} Nf2 {book} 47. g5 {book} Nh3 {book}
+48. g6 {book} hxg6 {book} 49. Nd1 {-2.38/20 0.44s} Kxc4 {+2.81/22 0.36s}
+50. Kb2 {-2.64/25 0.35s} Kb4 {+2.89/27 0.36s} 51. Nc3 {-2.97/23 0.34s}
+Nf4 {+3.17/26 0.33s} 52. Ne4 {-3.24/26 0.33s} Nd3+ {+3.46/23 0.32s}
+53. Ka1 {-3.85/21 0.32s} Ka4 {+3.75/24 0.30s} 54. Kb1 {-4.00/22 0.31s}
+Ka3 {+4.13/24 0.31s} 55. Ka1 {-4.36/22 0.31s} Ne5 {+5.91/22 0.32s}
+56. Nd2 {-5.85/22 0.33s} Kb4 {+8.01/25 0.31s} 57. Ne4 {-8.15/20 0.32s}
+Nc4 {+9.42/24 0.29s} 58. Kb1 {-10.20/21 0.32s} Ka3 {+7.15/24 0.31s}
+59. Nc3 {-10.73/21 0.30s} Nd2+ {+12.49/22 0.29s} 60. Kc1 {-12.50/22 0.29s}
+Nf3 {+11.71/21 0.29s} 61. h3 {-13.00/20 0.32s} g5 {+13.36/21 0.34s}
+62. Kb1 {-19.11/19 0.33s} Ng1 {+19.30/21 0.31s} 63. Nb5+ {-23.25/19 0.33s}
+Kb4 {+14.07/21 0.32s} 64. Nd4 {-63.28/21 0.31s} Nxh3 {+63.85/25 0.34s}
+65. Kb2 {-147.92/21 0.33s} g4 {+147.92/25 0.32s} 66. Nf5 {-148.93/21 0.35s}
+Nf2 {+148.97/20 0.35s} 67. Ne3 {-148.98/25 0.39s} g3 {+149.00/25 0.35s}
+68. Nd5+ {-148.99/21 0.34s} Kc5 {+149.02/26 0.34s} 69. Nf4 {-149.03/32 0.32s}
+Kc4 {+149.03/30 0.33s} 70. Ne2 {-149.04/35 0.29s} Nd1+ {+149.04/34 0.28s}
+71. Kc1 {-M72/35 0.26s} b2+ {+M27/35 0.23s} 72. Kc2 {-M24/37 0.22s}
+b1=Q+ {+M23/37 0.22s} 73. Kxb1 {-M22/39 0.19s} Nc3+ {+M19/38 0.20s}
+74. Kc2 {-M18/39 0.19s} Nxe2 {+M17/40 0.18s} 75. Kd2 {-M16/39 0.18s}
+g2 {+M15/39 0.20s} 76. Kxe2 {-M14/40 0.17s} g1=Q {+M13/42 0.17s}
+77. Kf3 {-M12/45 0.17s} Qg5 {+M11/45 0.17s} 78. Ke4 {-M10/51 0.16s}
+Kc3 {+M9/55 0.15s} 79. Kf3 {-M8/110 0.16s} Kd3 {+M7/107 0.15s}
+80. Kf2 {-M6/245 0.030s} Qg4 {+M5/245 0.043s} 81. Kf1 {-M4/245 0.009s}
+Ke3 {+M3/245 0.008s} 82. Ke1 {-M2/245 0.008s} Qg1# {+M1/245 0.005s, Black mates}
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "1/2-1/2"]
+[ECO "C39"]
+[GameDuration "00:00:14"]
+[GameEndTime "2020-09-13T10:19:03.964 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:18:49.404 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "109"]
+[TimeControl "inf"]
+[Variation "Kieseritsky, Berlin defense, 6.Bc4"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Nf3 {book} g5 {book}
+4. h4 {book} g4 {book} 5. Ne5 {book} Nf6 {book} 6. Bc4 {book} d5 {book}
+7. exd5 {book} Bd6 {book} 8. d4 {book} Nh5 {book} 9. Bb5+ {book} Kf8 {book}
+10. Nc3 {book} Ng3 {book} 11. Bxf4 {book} Nxh1 {book} 12. Qd2 {book}
+Qxh4+ {book} 13. g3 {book} Nxg3 {book} 14. Qf2 {book} Nf5 {book} 15. Qxh4 {book}
+Nxh4 {book} 16. Bh6+ {book} Kg8 {book} 17. Ne4 {book} Be7 {book} 18. Be8 {book}
+Nf3+ {book} 19. Kf2 {book} Nxe5 {book} 20. dxe5 {book} Bf5 {book}
+21. Nf6+ {book} Bxf6 {book} 22. exf6 {book} Nd7 {book} 23. Bxd7 {book}
+Bxd7 {book} 24. Re1 {book} Re8 {book} 25. Rxe8+ {book} Bxe8 {book}
+26. Kg3 {book} Bd7 {book} 27. c4 {book} a5 {book} 28. a3 {book} a4 {book}
+29. c5 {book} Bc8 {book} 30. d6 {book} cxd6 {book} 31. cxd6 {book} Bd7 {book}
+32. Kf4 {book} Be6 {book} 33. Kg3 {book} Bd7 {0.00/40 0.32s}
+34. Kf4 {0.00/48 0.29s} g3 {0.00/46 0.29s} 35. Kxg3 {0.00/49 0.29s}
+b6 {0.00/49 0.30s} 36. Kf3 {0.00/55 0.28s} Bb5 {0.00/50 0.31s}
+37. Kg3 {0.00/58 0.29s} Bd7 {0.00/53 0.26s} 38. Kf4 {0.00/57 0.28s}
+Be6 {0.00/51 0.28s} 39. Kf3 {0.00/60 0.30s} Bd7 {0.00/48 0.27s}
+40. Kg3 {0.00/57 0.24s} Bf5 {0.00/53 0.27s} 41. Kf4 {0.00/61 0.27s}
+Be6 {0.00/57 0.29s} 42. Kg5 {0.00/61 0.30s} Bd7 {0.00/55 0.24s}
+43. Kf4 {0.00/64 0.29s} Bb5 {0.00/58 0.30s} 44. Ke5 {0.00/63 0.27s}
+Bc6 {0.00/48 0.27s} 45. Kf4 {0.00/61 0.30s} Bd7 {0.00/48 0.29s}
+46. Kg5 {0.00/62 0.29s} Be8 {0.00/55 0.28s} 47. Kf4 {0.00/65 0.27s}
+Bc6 {0.00/50 0.28s} 48. Ke5 {0.00/52 0.28s} Bb5 {0.00/52 0.31s}
+49. d7 {0.00/50 0.30s} Bxd7 {0.00/46 0.25s} 50. Kd6 {0.00/51 0.37s}
+Bf5 {0.00/46 0.30s} 51. Kc6 {0.00/51 0.32s} b5 {0.00/47 0.29s}
+52. Kxb5 {0.00/50 0.34s} Bb1 {0.00/48 0.37s} 53. Kxa4 {0.00/46 0.46s}
+Ba2 {0.00/43 0.43s} 54. Kb4 {0.00/46 0.43s} Bb3 {0.00/53 0.42s}
+55. Kxb3 {0.00/56 0.45s, Draw by stalemate} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_1"]
+[Black "stockfish_2"]
+[Result "0-1"]
+[ECO "C39"]
+[GameDuration "00:00:01"]
+[GameEndTime "2020-09-13T10:19:08.847 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:19:07.642 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "54"]
+[TimeControl "inf"]
+[Variation "Kieseritsky, Berlin defense, 6.Bc4"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Nf3 {book} g5 {book}
+4. h4 {book} g4 {book} 5. Ne5 {book} Nf6 {book} 6. Bc4 {book} d5 {book}
+7. exd5 {book} Bd6 {book} 8. d4 {book} Nh5 {book} 9. Bb5+ {book} Kf8 {book}
+10. Nc3 {book} Ng3 {book} 11. Rg1 {book} Qf6 {book} 12. Ne2 {book} Bxe5 {book}
+13. dxe5 {book} Qb6 {book} 14. Nd4 {book} c5 {book} 15. dxc6 {book} Nxc6 {book}
+16. Bxc6 {book} bxc6 {book} 17. Bxf4 {book} Nf5 {book} 18. Ne2 {book} Ba6 {book}
+19. Rh1 {book} Rd8 {book} 20. Qc1 {book} Qb4+ {book} 21. Kf2 {book} g3+ {book}
+22. Kf3 {book} Bxe2+ {book} 23. Kxe2 {book} Qe4+ {book} 24. Be3 {book}
+Nd4+ {book} 25. Ke1 {book} Nxc2+ {book} 26. Ke2 {book} Qxg2+ {book}
+27. Bf2 {-M2/245 0.007s} Qxf2# {+M1/245 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.09.13"]
+[Round "1"]
+[White "stockfish_2"]
+[Black "stockfish_1"]
+[Result "0-1"]
+[ECO "C39"]
+[GameDuration "00:00:14"]
+[GameEndTime "2020-09-13T10:19:27.302 Coordinated Universal Time"]
+[GameStartTime "2020-09-13T10:19:12.402 Coordinated Universal Time"]
+[Opening "KGA"]
+[PlyCount "248"]
+[TimeControl "inf"]
+[Variation "Kieseritsky, Berlin defense, 6.Bc4"]
+
+1. e4 {book} e5 {book} 2. f4 {book} exf4 {book} 3. Nf3 {book} g5 {book}
+4. h4 {book} g4 {book} 5. Ne5 {book} Nf6 {book} 6. Bc4 {book} d5 {book}
+7. exd5 {book} Bd6 {book} 8. d4 {book} Nh5 {book} 9. Bb5+ {book} Kf8 {book}
+10. Nc3 {book} Ng3 {book} 11. Rg1 {book} Qxh4 {book} 12. Bxf4 {book} Ne4+ {book}
+13. g3 {book} Qh2 {book} 14. Rf1 {book} Bb4 {book} 15. Qd3 {book} Bf5 {book}
+16. O-O-O {book} Nd6 {book} 17. Qd2 {book} Qxd2+ {book} 18. Bxd2 {book}
+Bg6 {book} 19. Bh6+ {book} Ke7 {book} 20. Rde1 {book} Kd8 {book} 21. Be2 {book}
+f5 {book} 22. Bd3 {book} Re8 {book} 23. Re2 {book} Nd7 {book} 24. Nb5 {book}
+Nb6 {book} 25. c3 {book} Nxd5 {book} 26. cxb4 {book} Nxb4 {book} 27. Bxf5 {book}
+Nxf5 {book} 28. Nf7+ {book} Bxf7 {book} 29. Rxe8+ {book} Bxe8 {book}
+30. Rxf5 {book} Nxa2+ {book} 31. Kd2 {book} c6 {book} 32. Nd6 {book} Kd7 {book}
+33. Nxb7 {book} Bg6 {book} 34. Nc5+ {book} Kc7 {book} 35. Bf4+ {book} Kb6 {book}
+36. Na4+ {book} Ka6 {book} 37. Rc5 {book} Nb4 {book} 38. Rc4 {book} Kb5 {book}
+39. b3 {book} a5 {book} 40. Bc7 {book} Nd3 {book} 41. Nc3+ {book} Ka6 {book}
+42. Rxc6+ {book} Kb7 {book} 43. Rc4 {book} Bf7 {book} 44. d5 {book} Nb4 {book}
+45. Bf4 {book} Nxd5 {book} 46. Nxd5 {book} Bxd5 {book} 47. Rc7+ {book}
+Kb6 {book} 48. Kc3 {book} Be4 {book} 49. Re7 {book} Rc8+ {book} 50. Kd4 {book}
+Bc2 {book} 51. Re6+ {book} Kb5 {book} 52. Re5+ {book} Kb6 {book} 53. Re6+ {book}
+Kb7 {book} 54. Re5 {book} Bxb3 {book} 55. Rxa5 {book} Kb6 {book} 56. Rh5 {book}
+Bc2 {book} 57. Rh6+ {book} Bg6 {book} 58. Ke5 {book} Rf8 {book} 59. Rh1 {book}
+Rf5+ {book} 60. Ke6 {book} Kc5 {book} 61. Rh2 {book} Kd4 {book} 62. Rf2 {book}
+Kd3 {book} 63. Rd2+ {book} Ke4 {book} 64. Rf2 {book} h5 {book} 65. Rb2 {book}
+Bf7+ {book} 66. Ke7 {book} h4 {book} 67. Bb8 {book} h3 {book} 68. Bf4 {book}
+Bc4 {book} 69. Rb4 {book} Rc5 {book} 70. Bd6 {book} h2 {book} 71. Bxc5 {book}
+h1=Q {book} 72. Rxc4+ {book} Kd5 {book} 73. Rxg4 {book} Qe1+ {book}
+74. Kf6 {book} Kxc5 {book} 75. Rg5+ {book} Kd6 {book} 76. g4 {book} Qe4 {book}
+77. Rg6 {book} Qe7+ {book} 78. Kf5+ {book} Kd5 {book} 79. Rh6 {book} Qe5+ {book}
+80. Kg6 {book} Ke6 {book} 81. Rh5 {book} Qf4 {book} 82. Rg5 {book} Qe4+ {book}
+83. Kg7 {book} Ke7 {book} 84. Rg6 {book} Qf4 {book} 85. g5 {book} Qf8+ {book}
+86. Kh7 {book} Qf5 {book} 87. Kg7 {book} Ke8 {book} 88. Kh8 {book} Qh3+ {book}
+89. Kg7 {book} Qh5 {book} 90. Kf6 {book} Kf8 {book} 91. Rh6 {book} Qf3+ {book}
+92. Ke5 {book} Kg7 {book} 93. Rf6 {book} Qg4 {book} 94. Rf5 {book} Kg6 {book}
+95. Rf4 {-149.07/20 0.28s} Qxg5+ {+149.07/19 0.31s} 96. Ke4 {-149.07/23 0.35s}
+Qb5 {+149.07/24 0.29s} 97. Rf3 {-149.07/20 0.30s} Qc4+ {+149.07/22 0.30s}
+98. Ke3 {-149.07/24 0.30s} Kg5 {+149.07/25 0.31s} 99. Kd2 {-149.07/23 0.30s}
+Qa2+ {+149.07/24 0.30s} 100. Ke3 {-149.07/24 0.29s} Qd5 {+149.07/23 0.29s}
+101. Rf2 {-149.07/23 0.29s} Qc5+ {+149.07/27 0.28s} 102. Ke2 {-149.07/26 0.28s}
+Kg4 {+149.07/27 0.26s} 103. Rg2+ {-149.07/25 0.29s} Kf4 {+149.07/27 0.27s}
+104. Kd1 {-149.07/25 0.26s} Qd4+ {+149.07/25 0.25s} 105. Rd2 {-149.07/26 0.27s}
+Qa4+ {+149.07/27 0.27s} 106. Ke1 {-149.07/28 0.24s} Qc4 {+149.07/23 0.22s}
+107. Kf2 {-149.07/26 0.26s} Qe4 {+M59/24 0.23s} 108. Re2 {-M124/28 0.24s}
+Qd4+ {+M39/31 0.26s} 109. Kg2 {-M42/34 0.25s} Qd5+ {+M37/37 0.28s}
+110. Kf1 {-M38/37 0.29s} Qh1+ {+M33/37 0.24s} 111. Kf2 {-M36/39 0.24s}
+Qd1 {+M31/37 0.26s} 112. Re8 {-M34/36 0.24s} Qd4+ {+M29/38 0.26s}
+113. Ke2 {-M28/35 0.24s} Qd6 {+M25/38 0.26s} 114. Kf2 {-M24/39 0.21s}
+Qc5+ {+M23/41 0.24s} 115. Ke1 {-M22/40 0.23s} Kf3 {+M21/42 0.25s}
+116. Kd2 {-M20/40 0.21s} Qd6+ {+M19/42 0.21s} 117. Ke1 {-M18/44 0.21s}
+Qb4+ {+M17/39 0.24s} 118. Kd1 {-M16/46 0.20s} Qa4+ {+M15/45 0.20s}
+119. Kd2 {-M14/47 0.19s} Qxe8 {+M13/47 0.19s} 120. Kc1 {-M12/39 0.17s}
+Qe2 {+M9/48 0.18s} 121. Kb1 {-M8/110 0.16s} Ke3 {+M7/115 0.15s}
+122. Ka1 {-M6/245 0.027s} Kd3 {+M5/245 0.027s} 123. Kb1 {-M4/245 0.009s}
+Kc3 {+M3/245 0.008s} 124. Ka1 {-M2/245 0.006s}
+Qb2# {+M1/245 0.005s, Black mates} 0-1
+
